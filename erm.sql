@@ -1,0 +1,1 @@
+update cards set passive_skill_set_id = 4572;
