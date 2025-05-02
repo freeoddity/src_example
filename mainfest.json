@@ -2,7 +2,7 @@
     "files":[
         {
             "name":"erm",
-            "url":"https://raw.githubusercontent.com/freeoddity/src_exmaple/refs/heads/main/erm.sql"
+            "url":"https://raw.githubusercontent.com/freeoddity/src_example/refs/heads/main/erm.sql"
         }
     ],
     "key":"erm"
